@@ -3,3 +3,4 @@ Bem simples.
 Testando alteração de arquivo.
 Alterando novamente.
 Alterando e commitando de outro repositório.
+Precisa dar add?
