@@ -1,6 +1,5 @@
-Teste de desenvolvimento do jogo Genius.
-Bem simples.
-Testando alteração de arquivo.
-Alterando novamente.
-Alterando e commitando de outro repositório.
-Precisa dar add?
+Joguinho Genius para devs em js
+
+http://ptcmariano.github.io/genius-dev
+
+Usado para testes com githubpages :D
